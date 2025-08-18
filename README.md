@@ -12,11 +12,20 @@ Why? Because building Hyprland from scratch is *painful* 🥲.
 
 ---
 
+## 🎛 Tools / Eye Candy
+- **fastfetch** → for cool system info  
+- **cava** → audio visualizer  
+- **cmatrix** → why not? Hacker vibes 💻🟩  
+- **momoisay** → animated ASCII art of Momoi
+- (and probably more random stuff along the way...)
+
+---
+
 ## ⚠️ Disclaimer
 - No warranty. No guarantee.  
-- If your rice looks weird — that’s your problem.  
-- If your laptop explodes — don’t call me.  
-- Again, **no auto install scripts**. Manual effort required. 
+- If your rice looks weird — that’s your problem.
+- If your laptop explodes — don’t call me.
+- Again, **no auto install scripts**. Manual effort required
 
 ---
 
