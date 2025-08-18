@@ -1,16 +1,32 @@
-# 🍙 Hyprland Dotfiles — Just in Case My Laptop Blows Up
+# 🍙 Hyprland Dotfiles
 
-These are my **Hyprland dotfiles**, uploaded here just in case my laptop decides to blow up 🔥💻.  
-If it survives, cool. If not… at least my rice lives forever on GitHub 🌱.
+Just in case my laptop blow up — here’s the backup.  
+Don’t blame me if your laptop also blow up 🔥💻  
+Also, don’t expect any auto-install magic here ✨ (you’re on your own).
 
+---
+
+## ⚡ Base
+These dotfiles are based on [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland).  
+Why? Because building Hyprland from scratch is *painful* 🥲. 
+
+---
+
+## ⚠️ Disclaimer
+- No warranty. No guarantee.  
+- If your rice looks weird — that’s your problem.  
+- If your laptop explodes — don’t call me.  
+- Again, **no auto install scripts**. Manual effort required. 
+
+---
+
+## 📸 Screenshots
 ![screenshot](./screenshots/desktop.png)
-*(Proof that my laptop still works… for now 😅)*
+![screenshot](./screenshots/desktop1.png)
+![screenshot](./screenshots/desktop2.png)
 
+---
 
-## ⚡ Installation  
-
-> ⚠️ Warning: These are my personal configs.  
-> If you copy them, your laptop might also blow up (jk… I hope).  
-> **Don’t blame me if your laptop explodes too 🔥💣**.  
-> And no, **don’t expect some fancy auto-install script**.  
-> Just: clone, copy, pray.  
+## 📝 Notes
+- Just: clone, copy, pray.
+- I NOT USING ARCH BTW
